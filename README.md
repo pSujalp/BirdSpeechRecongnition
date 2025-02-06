@@ -26,13 +26,13 @@
 
 ##### CMD 
 
-`myenv\Scripts\activate`
+`MyENV\Scripts\activate`
 
 **OR**
 
 ##### Powershell
 
-`.\myenv\Scripts\Activate`
+`.\MyENV\Scripts\Activate`
 
 ## Package installation 
 
