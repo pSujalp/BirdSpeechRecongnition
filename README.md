@@ -18,13 +18,19 @@
 
 ![Image](https://github.com/user-attachments/assets/8fae111e-2257-4886-8aaf-202e971a8a38)
 
+#### Create Environment for PY
+
 `python -m venv MyENV` insert or copy and paste it into the terminal 
 
-#### CMD 
+#### Activate the Environment
+
+##### CMD 
 
 `myenv\Scripts\activate`
 
-#### Powershell
+**OR**
+
+##### Powershell
 
 `.\myenv\Scripts\Activate`
 
