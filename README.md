@@ -9,7 +9,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ef4e2add-93d8-4bb5-837d-1c20d1eaff97)
 
-- Use **VSCode** to avoid confusion and opening VSCode manually is a Headache
+- Use **VSCode** to avoid confusion and opening folder manually is a Headache
   ---
 
 -Make a empty folder with nothing inside
