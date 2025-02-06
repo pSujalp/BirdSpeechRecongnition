@@ -8,6 +8,8 @@
 
 -Make sure to open terminal like CMD or PowerShell (Make sure to right click on the folder inside where you are making the environment and there will be CMD) 
 
+![Image](https://github.com/user-attachments/assets/8fae111e-2257-4886-8aaf-202e971a8a38)
+
 `python -m venv MyENV` insert or copy and paste it into the terminal 
 
 #### CMD 
