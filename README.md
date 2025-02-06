@@ -4,6 +4,8 @@
 
 -Download Python from [Python DownLoad](https://www.python.org/downloads/)
 
+**Make sure to add to path**
+
 - Use **VSCode** to avoid confusion and opening VSCode manually is a Headache
   ---
 
