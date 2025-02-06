@@ -42,7 +42,7 @@
 
 `pip install birdnetlib`
 
-`pip install tensorflow-lite`
+`pip install tensorflow`
 
 `pip install librosa`
 
