@@ -50,6 +50,10 @@
 
 `pip install -q -U google-genai`
 
+`pip3 install birdnet`
+
+`pip install tflite-runtime`
+
 ######
 
 ## Make sure to add the audio file in .mp3 inside the folder where Python envirionemnt is created 
