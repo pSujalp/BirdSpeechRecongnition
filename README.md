@@ -56,4 +56,7 @@
 
 `python3 SpeechRecongnition.py`
 
+# Refer BirdNET website for documentation 
+
+[BIRDNETLib](https://joeweiss.github.io/birdnetlib/)
 
