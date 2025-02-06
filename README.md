@@ -42,6 +42,12 @@
 
 `pip install birdnetlib`
 
+`pip install tensorflow-lite`
+
+`pip install librosa`
+
+`pip install ffmpeg`
+
 ######
 
 ## Make sure to add the audio file in .mp3 inside the folder where Python envirionemnt is created 
