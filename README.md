@@ -48,6 +48,8 @@
 
 `pip install ffmpeg`
 
+`pip install -q -U google-genai`
+
 ######
 
 ## Make sure to add the audio file in .mp3 inside the folder where Python envirionemnt is created 
