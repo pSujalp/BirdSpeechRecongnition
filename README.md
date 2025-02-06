@@ -4,6 +4,9 @@
 
 -Download Python from [Python DownLoad](https://www.python.org/downloads/)
 
+- Use **VSCode** to avoid confusion and opening VSCode manually is a Headache
+  ---
+
 -Make a empty folder with nothing inside
 
 -Make sure to open terminal like CMD or PowerShell (Make sure to right click on the folder inside where you are making the environment and there will be CMD) 
